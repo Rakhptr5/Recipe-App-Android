@@ -1,3 +1,40 @@
 <resources>
     <string name="app_name">Masterchef</string>
+    <string name="content_text">Bahan</string>
+    <string name="content_specs_display">5.0 inches\n
+	    FHD AMOLED at 441ppi\n
+	    2.5D Corning® Gorilla® Glass 4</string>
+    <string name="content_specs_size">1.Kuah: Masak air dan tulang sapi hingga mendidih. \nAngkat, sisihkan tulang dan buang air rebusannya.
+    </string>
+    <string name="contents">2.Panaskan kembali 3L air dan tulang sapi, \nmasak hingga mendidih. Kecilkan api, \nteruskan memasak hingga kaldu pekat (1 jam).</string>
+    <string name="asem">3.Tambahkan bawang putih, garam,  \ndan merica bubuk, masak dengan api kecil \nhingga bumbu meresap (1 jam). \nAngkat, sisihkan.</string>
+    <string name="asen">4.Rebus bakso lobster dalam air mendidih \nhingga matang. Angkat, tiriskan.</string>
+    <string name="ases">5.Letakkan mie kuning dalam mangkuk saji, \nberikan 1 buah bakso lobster, beberapa buah \nbakso urat dan bakso halus, siram dengan kuah panas. \nSajikan bersama pelengkap.</string>
+    <string name="content_specs_battery">@tubanheboh</string>
+    <string name="stock">"Kesukaan Warga Tuban Aseli Cuy!"</string>
+    <string name="specification">\n - 6 ekor (2 kg) lobster \n\n
+- 200g mie telur kering \n\n
+- bakso urat,aduk rata \n\n
+- 200g urat sapi cincang \n\n
+- 1sdm bawang merah goreng \n\n
+- ¾sdt merica bubuk \n\n
+
+
+    </string>
+    <string name="display">Langkah</string>
+    <string name="size">Size</string>
+    <string name="battery">Battery</string>
+    <string name="seller">Dijual oleh</string>
+    <string name="my_name">Atawik wik wik wik</string>
+    <string name="buy">Beli</string>
+    <string name="dummy_value">Bakso Lobster Best Seller</string>
+    <string name="dummy_photos">\n- ½sdt garam \n\n
+- ½sdt merica \n\n
+- 1kg daging sapi \n\n
+- 100g es batu \n\n
+- 6 siung baput\n\n
+
+</string>
+
+
 </resources>
